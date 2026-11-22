@@ -11,7 +11,7 @@ The light already has what a repeater needs: a solar panel, a battery bay, a pow
 </p>
 
 **Watch the build:** <!-- TODO: add links after publishing -->
-[Instagram Reel](TODO) · [YouTube Short](TODO)
+[YouTube Short](https://youtube.com/shorts/bxvUSGAIH8w)
 
 **Build it yourself:** [step-by-step build guide](BUILD_GUIDE.md)
 
